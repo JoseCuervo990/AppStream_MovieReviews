@@ -1,0 +1,17 @@
+{
+  "positive": [
+    "An uplifting story with great performances. I loved it.",
+    "A brilliant film — engaging, funny, and heartfelt.",
+    "One of the best movies I've seen this year."
+  ],
+  "negative": [
+    "Terrible pacing and a predictable plot. I was bored.",
+    "Poor acting and weak script. Do not recommend.",
+    "A disappointing movie; it failed to deliver."
+  ],
+  "neutral": [
+    "It was okay — some nice moments but not memorable.",
+    "A standard genre film, nothing special.",
+    "Average experience; neither good nor bad."
+  ]
+}
